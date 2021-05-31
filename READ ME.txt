@@ -1,0 +1,13 @@
+1) Download OPENCV file in your computer.(I downloaded version 4.5.2)
+2) Install Visual Studio Community version 2019.
+ -> while installing make sure you select the option Development with c++.
+
+3)After Completing the above 2 process, open Visual Studio and:
+ -> Create Empty Project
+ -> Add the RESOURCE File inside it.
+ -> Paste the Code in .cpp file. (run it and enjoy)
+
+
+NOTE: You will need to add path for various file , so it's better for you to go and 
+      search on youtube "How to setup Visual Studio for OPENCV C++"
+  
